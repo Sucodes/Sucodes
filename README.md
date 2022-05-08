@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Suvwe
-- 👀 I’m interested in Frontend development 
-- 🌱 I’m currently learning JavaScript 
+- 👀 I’m interested in Front-End web development 
+- 🌱 I’m currently learning React 
 - 💞️ I’m looking to collaborate on projects
 - 📫 You can reach me via email rhounamoney@gmail.com
 
