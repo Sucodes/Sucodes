@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Suvwe
+- 👋 Hi, I’m Suvwe (pronounced Su-way)
 - 👀 I’m interested in Front-End web development 
 - 🌱 I’m currently learning React 
 - 💞️ I’m looking to collaborate on projects
