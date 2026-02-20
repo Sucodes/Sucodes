@@ -4,9 +4,9 @@ You can click the Preview link to take a look at your changes.
 --->
 # Hi 👋, I'm Suvwe Money
 
-## Frontend Developer
+## Software Developer
 
-* 🌍 I'm based in Lagos, Nigeria
+* 🌍 I'm based in Dublin, Ireland
 * 💬 Interested in Frontend Development
 * 🤝 I'm open to collaborating on interesting and impactful projects
 * 📫 You can reach me at **rhounamoney@gmail.com**
@@ -33,6 +33,5 @@ You can click the Preview link to take a look at your changes.
 
 ## Connect with me
 <p align="left">
-<a href="https://twitter.com/su_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="su_codes" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/oghenesuvwe money" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oghenesuvwe money" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/suvwe-money/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oghenesuvwe money" height="30" width="40" /></a>
 </p>
