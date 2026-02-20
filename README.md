@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 ## Software Developer
 
 * 🌍 I'm based in Dublin, Ireland
-* 💬 Interested in Frontend Development
+* 💬 Interested in crafting exceptional digital experiences
 * 🤝 I'm open to collaborating on interesting and impactful projects
 * 📫 You can reach me at **rhounamoney@gmail.com**
 
